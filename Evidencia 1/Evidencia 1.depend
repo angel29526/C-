@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1591153513 source:c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\movie.cpp
+	"Movie.h"
+
+1591154636 c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\movie.h
+	<iostream>
+	"Video.h"
+
+1591159268 source:c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\main.cpp
+	<iostream>
+	"Video.h"
+	"Movie.h"
+	"Sitcoms.h"
+	"Episodes.h"
+
+1591154622 source:c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\sitcoms.cpp
+	"Sitcoms.h"
+
+1591154640 c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\sitcoms.h
+	<iostream>
+	"Video.h"
+
+1591155439 source:c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\video.cpp
+	"Video.h"
+
+1591155485 c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\video.h
+	<iostream>
+
+1591154465 source:c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\episodes.cpp
+	"Episodes.h"
+
+1591154465 c:\users\chiri\documents\angel\tec\2\programación orientada a objetos\evidencia 1\episodes.h
+	"Sitcoms.h"
+
